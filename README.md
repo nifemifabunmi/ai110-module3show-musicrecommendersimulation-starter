@@ -112,7 +112,7 @@ I tested a few changes to see how the recommender responded.
 
 Here are some of the sreenshots:
 - https://vscode.dev/github/nifemifabunmi/ai110-module3show-musicrecommendersimulation-starter/blob/main/Screenshot%202026-04-07%20at%207.37.23%E2%80%AFPM.png
-- 
+- https://vscode.dev/github/nifemifabunmi/ai110-module3show-musicrecommendersimulation-starter/blob/main/Screenshot%202026-04-08%20at%204.59.48%E2%80%AFPM.png
 
 These experiments showed that recommendation systems are very sensitive to feature design and scoring choices.
 
